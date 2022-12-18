@@ -1,0 +1,82 @@
+/* **********NAVBAR********** */
+
+.nav-link {
+    color: #fff;
+}
+
+.navbar-padding-0 {
+    --bs-navbar-padding-y: 0;
+    --bs-nav-link-padding-x: 0;
+}
+
+.navbar-link-padding-0 {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+/* **********TEXT-COLOR********** */
+
+.text-grey {
+    color: #969897;
+}
+
+.text-grey:hover {
+    color: #fff;
+}
+
+.text-active-white {
+    color: #fff;
+}
+
+.text-active-white:hover {
+    color: #969897;
+}
+
+
+/* **********SLIDER********** */
+
+.slider-label-color {
+    color: #0c0c0c;
+}
+
+.slider-h5-color {
+    color: #dbdcce;
+}
+
+.col-def-padding {
+    padding: 0 48px;
+}
+
+.img-full {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* **********ICONS-COLOR********** */
+
+.fa-instagram:hover {
+    color: #fd5949;
+}
+
+.fa-facebook-f:hover {
+    color: #3568d6;
+}
+
+.fa-twitter:hover {
+    color: #00B6F1;
+}
+
+.fa-youtube:hover {
+    /* color: #C31A1E; */
+    color: rgb(255, 0, 0);
+}
+
+.fa-twitch:hover {
+    color: #a970ff;
+}
+
+i {
+    font-size: 18px;
+}
